@@ -19,5 +19,5 @@ cd netexec-v1.1.0.r8.ga6be6c1b-1-any.pkg && cp -r ./usr/share/netexec /usr/share
 cd /usr/share/netexec && poetry install
 
 use:
-nxc or netexec
+> nxc or netexec
 ```
