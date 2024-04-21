@@ -21,3 +21,23 @@ https://github.com/Klearcc/SomeTools/blob/main/netexec-v1.1.0.r8.ga6be6c1b-1-any
 use:
 > nxc or netexec
 ```
+### proxy_server
+基于https://github.com/avplayer/proxy项目
+
+### ios脱壳app，文件太大无法上传至github，需要请留言
+Discord_181.0增强版自带翻译功能tg巨魔商店.ipa
+Nicegram1.4.6破解会员.ipa
+抖音_23.2.1_港版+净化_秋名山.ipa
+TikTok_30.3.0_免拔卡破解BHTiktok汉化tg巨魔商店.ipa
+Twitter_9.56_BHT391_com.atebits.Tweetie2.ipa
+YouTube_18.29.1_uYou_3.0.1.ipa
+微信_8.0.44.ipa
+直播聚合simple-live.ipa
+Reeder 5 (5.4).ipa
+
+### wechat插件
+PKC_0.4-4.deb
+sutuplus_5.7.3-1.deb
+uYou.dylib           
+微信净化2.23.dylib
+黄白助手1.6.5.deb
