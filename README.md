@@ -22,7 +22,7 @@ use:
 > nxc or netexec
 ```
 ### proxy_server
-基于https://github.com/avplayer/proxy项目
+基于https://github.com/avplayer/proxy  
 
 ### ios脱壳app，文件太大无法上传至github，需要请留言
 ```
