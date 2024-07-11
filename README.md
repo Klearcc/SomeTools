@@ -23,6 +23,17 @@ use:
 ```
 ### proxy_server
 基于https://github.com/avplayer/proxy  
+```
+##做服务端
+### http服务
+./proxy_server_linux_amd64 --disable_logs true --http_doc .  --auth_users "" --autoindex true --server_listen [::0]:1080
+### 代理。http&socks通用
+./proxy_server_linux_amd64   --auth_users "user:pass" --disable_logs true --disable_insecure false --server_listen 0.0.0.0:1080
+
+##做客户端
+### 启动后会在本地启socks&http1080
+./proxy_server_linux_amd64 --auth_users "" --disable_logs true  --disable_insecure false  --proxy_pass socks5://user:pass@ip:port
+```
 
 ### ios脱壳app，文件太大无法上传至github，需要请留言
 ```
